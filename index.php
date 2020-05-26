@@ -24,5 +24,3 @@ if (!isset($_GET['module']) OR $_GET['section'] == 'index' AND $_GET['module'] =
 		echo 'le fichier "'.$_GET['section'].'.php" n\'existe pas. <a href="?">Aller à l\'accueil</a>';
 	}
 }
-
-?>
