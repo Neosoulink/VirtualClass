@@ -6,7 +6,7 @@ Présentaption de la version beta du logiciel d'archivage ***Virtual class***
 
 ----
 
-### Arrive bientôt
+### Fonctionalités qui arrivent bientôt :
 
 * Gestion des documment et leurs partages
 * Backend Laravel & Frontend VueJS
